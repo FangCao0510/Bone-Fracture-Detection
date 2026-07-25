@@ -4,6 +4,7 @@ AI-assisted upper-limb fracture detection using YOLOv8 with a web-based applicat
 This project was developed as a three-member bachelor's graduation project.
 The system applies a YOLOv8s object detection model to identify and localize six upper-limb fracture categories in X-ray images. The trained model was integrated into a web-based prototype that displays predicted fracture classes, bounding boxes, and confidence scores.
 # My Contributions
+This repository contains the complete graduation project developed by a three-member team.
 My primary responsibilities in this project included:
 - Processing and remapping YOLO-format annotations
 - Preparing training, validation, and test datasets
@@ -11,8 +12,6 @@ My primary responsibilities in this project included:
 - Monitoring the training process and model convergence
 - Evaluating model performance using precision, recall, mAP, and confusion matrices
 - Supporting the integration of the trained model into the web-based prototype
-This repository contains the complete graduation project developed by a three-member team.
-My primary contribution focused on the AI pipeline, including dataset preparation, annotation processing, YOLOv8 model training, performance evaluation, and AI model integration.
 # Key Features
 - Detection and localization of six upper-limb fracture categories
 - Bounding-box visualization with confidence scores
